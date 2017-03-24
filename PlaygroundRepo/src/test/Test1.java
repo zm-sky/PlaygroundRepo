@@ -20,4 +20,9 @@ public class Test1 {
     public int calculo(){
         return 1;
     }
+      public int calculo2(){
+          
+          System.out.println("!");
+        return 9234;
+    }
 }
